@@ -7,7 +7,7 @@
 
 
 ## About me 
-Sai Manoj received his btech in Mechanical engineering at NIT Calicut. He is interested in AI and robotics which lead him to purse his career in AI. He published one SCI research journal and a conference paper in Deep learning genre. He is currently working as data scientist at an organization, building AI products useful to the society and contributing research community.
+Sai Manoj received his btech in Mechanical engineering at NIT Calicut. He is interested in AI and robotics which lead him to purse his career in AI. He published one SCI research journal and a conference paper in Deep learning genre. He is currently working as data scientist at an organization, building AI products useful to the society and contributing to research community.
 
 - 🔭 I’m currently working on NREF based models, OCR for complex pdfs, self driving tech and many more.
 - 💬 Ask me about **ML, DL and RL**
