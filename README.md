@@ -20,9 +20,9 @@ I'm an undergrad pursuing Electronics and Communication Engineering at National 
 
 ### Interesting stats
 
-![Bhanu's stats](https://github-readme-stats.vercel.app/api?username=BhanuPrakashPebbeti&show_icons=true&theme=radical)
+![manoj's stats](https://github-readme-stats.vercel.app/api?username=mano3-1&show_icons=true&theme=radical)
 
-[![Bhanu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuPrakashPebbeti&theme=radical)](https://github.com/BhanuPrakashPebbeti/github-readme-stats)
+[![manoj's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mano3-1&theme=radical)](https://github.com/BhanuPrakashPebbeti/github-readme-stats)
 
 
 
