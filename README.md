@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/mano3-1?label=Follow&style=social)](https://github.com/mano3-1)
 ![](https://komarev.com/ghpvc/?username=mano3-1&color=green)
 [![Linkedin](https://img.shields.io/badge/-manoj%20akondi-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-akondi/)](https://www.linkedin.com/in/manoj-akondi/)
-[![Twitter](https://img.shields.io/badge/@AkondiManoj-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AkondiManoj)]([https://twitter.com/Bhanu_152/](https://twitter.com/AkondiManoj))
+[![Twitter](https://img.shields.io/badge/@AkondiManoj-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AkondiManoj)](https://twitter.com/AkondiManoj)
 
 
 ## About me 
